@@ -25,7 +25,7 @@ export default function ArticleInfo(props) {
                     <i className="mr-1 fas fa-eye" /><span className="busuanzi_value_page_pv" />
                 </div>
             </div>
-            <Link href="/about" passHref legacyBehavior>
+            <Link href="https://drliaobo.vercel.app/" passHref legacyBehavior>
                 <div className='flex pt-2'>
                     <LazyImage src={siteInfo?.icon} className='rounded-full cursor-pointer' width={22} alt={siteConfig('AUTHOR')} />
 
