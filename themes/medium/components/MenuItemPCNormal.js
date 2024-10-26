@@ -13,7 +13,7 @@ export const MenuItemPCNormal = props => {
     <Link
       key={`${link.id}-${link.href}`}
       title={link.href}
-      href="https://drliaobo.vercel.app/"
+      href={link.href}
       className={
         'px-2 duration-300 text-sm justify-between dark:text-gray-300 cursor-pointer flex flex-nowrap items-center ' +
         (selected
