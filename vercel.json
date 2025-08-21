@@ -2,5 +2,5 @@
   "cleanUrls": true,
   "trailingSlash": false,
   "headers": [],
-  "installCommand": "yarn install --registry https://registry.yarnpkg.com --no-check-certificate"
+  "installCommand": "npm install --registry https://registry.npmjs.org --no-optional"
 }
