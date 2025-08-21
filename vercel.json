@@ -3,3 +3,6 @@
   "trailingSlash": false,
   "headers": []
 }
+{
+  "installCommand": "yarn install --registry https://registry.yarnpkg.com --no-check-certificate"
+}
