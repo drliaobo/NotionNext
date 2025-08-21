@@ -1,8 +1,6 @@
 {
   "cleanUrls": true,
   "trailingSlash": false,
-  "headers": []
-}
-{
+  "headers": [],
   "installCommand": "yarn install --registry https://registry.yarnpkg.com --no-check-certificate"
 }
